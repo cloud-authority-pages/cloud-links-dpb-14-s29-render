@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: cloud-links-dpb-14-s29
+    env: static
+    staticPublishPath: .
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
